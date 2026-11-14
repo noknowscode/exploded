@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `exploded/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/exploded) (private). This repository is archived and kept for its history.
+
 # Exploded
 
 An exploded-view parts catalog for a 60% mechanical keyboard, built with Uno Platform. A slider pulls the five layers of the build (case, PCB, plate, switches, keycaps) apart along the build axis; each layer has a numbered callout, a row in the parts table with SKU, price and stock status, and can be added to a build with a running total.
